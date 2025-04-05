@@ -3,41 +3,19 @@
 ![city](https://github.com/user-attachments/assets/69f4879f-bcbc-4d8f-a489-1a008717560c)
 ## Qualitative Results
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center"><img src="images/c_6.png" width="200"><br><b>Ground Truth</b></td>
+    <td align="center"><img src="images/c_ndic_6.png" width="200"><br><b>NDIC</b></td>
+    <td align="center"><img src="images/c_ldmic_6.png" width="200"><br><b>LDMIC</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/c_LD_6.png" width="200"><br><b>VAE-MFD</b></td>
+    <td align="center"><img src="images/c_LP_6.png" width="200"><br><b>VAE-MFD + PO-PFI</b></td>
+    <td align="center"><img src="images/c_alpha_6.png" width="200"><br><b>DPCON</b></td>
+  </tr>
+</table>
 
-<figure style="display:inline-block; margin:10px">
-  <img src="images/c_6.png" width="200" title="Ground Truth">
-  <figcaption><b>Ground Truth</b></figcaption>
-</figure>
-
-<figure style="display:inline-block; margin:10px">
-  <img src="images/c_ndic_6.png" width="200" title="NDIC">
-  <figcaption><b>NDIC</b></figcaption>
-</figure>
-
-<figure style="display:inline-block; margin:10px">
-  <img src="images/c_ldmic_6.png" width="200" title="LDMIC">
-  <figcaption><b>LDMIC</b></figcaption>
-</figure>
-
-<br>
-
-<figure style="display:inline-block; margin:10px">
-  <img src="images/c_LD_6.png" width="200" title="VAE-MFD">
-  <figcaption><b>VAE-MFD</b></figcaption>
-</figure>
-
-<figure style="display:inline-block; margin:10px">
-  <img src="images/c_LP_6.png" width="200" title="VAE-MFD + PO-PFI">
-  <figcaption><b>VAE-MFD + PO-PFI</b></figcaption>
-</figure>
-
-<figure style="display:inline-block; margin:10px">
-  <img src="images/c_alpha_6.png" width="200" title="DPCON">
-  <figcaption><b>DPCON</b></figcaption>
-</figure>
-
-</div>
 
 
 
