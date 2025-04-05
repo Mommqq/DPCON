@@ -4,18 +4,35 @@
 ## Qualitative Results
 
 
-<p align="center">
-  <img src="images/c_6.png" width="200" alt="Ground Truth">
-  <img src="images/c_ndic_6.png" width="200" alt="NDIC">
-  <img src="images/c_ldmic_6.png" width="200" alt="LDMIC">
-</p>
+<div align="center">
+  <figure>
+    <img src="images/c_6.png" width="300">
+    <figcaption>Ground Truth</figcaption>
+  </figure>
+  <figure>
+    <img src="images/c_ndic_6.png" width="300">
+    <figcaption>NDIC</figcaption>
+  </figure>
+  <figure>
+    <img src="images/c_ldmic_6.png" width="300">
+    <figcaption>LDMIC</figcaption>
+  </figure>
+</div>
 
-<p align="center">
-  <img src="images/c_LD_6.png" width="200" alt="VAE-MFD">
-  <img src="images/c_LP_6.png" width="200" alt="VAE-MFD + PO-PFI">
-  <img src="images/c_alpha_6.png" width="200" alt="DPCON">
-</p>
-
+<div align="center">
+  <figure>
+    <img src="images/c_LD_6.png" width="300">
+    <figcaption>VAE-MFD</figcaption>
+  </figure>
+  <figure>
+    <img src="images/c_LP_6.png" width="300">
+    <figcaption>VAE-MFD + PO-PFI</figcaption>
+  </figure>
+  <figure>
+    <img src="images/c_alpha_6.png" width="300">
+    <figcaption>DPCON</figcaption>
+  </figure>
+</div>
 
 
 
