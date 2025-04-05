@@ -5,9 +5,9 @@
 
 
 <p align="center">
-  <img src="![Ground Truth](images/c_6.png)" width="200" alt="Ground Truth">
-  <img src="![NDIC](images/c_ndic_6.png)" width="200" alt="NDIC">
-  <img src="![LDMIC](images/c_ldmic_6.png)" width="200" alt="LDMIC">
+  <img src="images/ori_rec.png" width="200" alt="Ground Truth">
+  <img src="images/c_ndic_6.png" width="200" alt="NDIC">
+  <img src="images/c_ldmic_6.png" width="200" alt="LDMIC">
 </p>
 
 
