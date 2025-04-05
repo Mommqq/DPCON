@@ -5,26 +5,40 @@
 
 <div align="center">
 
+<figure style="display:inline-block; margin:10px">
+  <img src="images/c_6.png" width="200" title="Ground Truth">
+  <figcaption><b>Ground Truth</b></figcaption>
+</figure>
 
-<img src="images/c_6.png" width="200" title="Ground Truth">
-<img src="images/c_ndic_6.png" width="200" title="NDIC" hspace="20">
-<img src="images/c_ldmic_6.png" width="200" title="LDMIC">
+<figure style="display:inline-block; margin:10px">
+  <img src="images/c_ndic_6.png" width="200" title="NDIC">
+  <figcaption><b>NDIC</b></figcaption>
+</figure>
 
+<figure style="display:inline-block; margin:10px">
+  <img src="images/c_ldmic_6.png" width="200" title="LDMIC">
+  <figcaption><b>LDMIC</b></figcaption>
+</figure>
 
-<sub>**Ground Truth**</sub>      
-<sub>**NDIC**</sub>          
-<sub>**LDMIC**</sub>
+<br>
 
+<figure style="display:inline-block; margin:10px">
+  <img src="images/c_LD_6.png" width="200" title="VAE-MFD">
+  <figcaption><b>VAE-MFD</b></figcaption>
+</figure>
 
-<img src="images/c_LD_6.png" width="200" title="VAE-MFD">
-<img src="images/c_LP_6.png" width="200" title="VAE-MFD + PO-PFI" hspace="20">
-<img src="images/c_alpha_6.png" width="200" title="DPCON">
+<figure style="display:inline-block; margin:10px">
+  <img src="images/c_LP_6.png" width="200" title="VAE-MFD + PO-PFI">
+  <figcaption><b>VAE-MFD + PO-PFI</b></figcaption>
+</figure>
 
-<sub>**VAE-MFD**</sub>     
-<sub>**VAE-MFD + PO-PFI**</sub>   
-<sub>**DPCON**</sub>
+<figure style="display:inline-block; margin:10px">
+  <img src="images/c_alpha_6.png" width="200" title="DPCON">
+  <figcaption><b>DPCON</b></figcaption>
+</figure>
 
 </div>
+
 
 
 
