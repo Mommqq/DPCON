@@ -3,8 +3,24 @@
 ![city](https://github.com/user-attachments/assets/69f4879f-bcbc-4d8f-a489-1a008717560c)
 ## Qualitative Results
 
+<style>
+  .figure-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    margin-bottom: 30px;
+  }
+  figure {
+    margin: 0;
+    text-align: center;
+  }
+  figcaption {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+</style>
 
-<div align="center">
+<div class="figure-container">
   <figure>
     <img src="images/c_6.png" width="200">
     <figcaption>Ground Truth</figcaption>
@@ -19,7 +35,7 @@
   </figure>
 </div>
 
-<div align="center">
+<div class="figure-container">
   <figure>
     <img src="images/c_LD_6.png" width="200">
     <figcaption>VAE-MFD</figcaption>
