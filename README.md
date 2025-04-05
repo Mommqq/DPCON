@@ -7,14 +7,14 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="images/c_6.png" width="200"><br><b>Ground Truth(bpp, PSNR, LPIPS)</b></td>
-    <td align="center"><img src="images/c_ndic_6.png" width="200"><br><b>NDIC((0.041bpp, 27.60dB, 0.2711)</b></td>
-    <td align="center"><img src="images/c_ldmic_6.png" width="200"><br><b>LDMIC(0.037bpp, 26.65dB, 0.2850)</b></td>
+    <td align="center"><img src="images/c_6.png" width="200"><br><b>Ground Truth (bpp, PSNR, LPIPS)</b></td>
+    <td align="center"><img src="images/c_ndic_6.png" width="200"><br><b>NDIC (0.041bpp, 27.60dB, 0.2711)</b></td>
+    <td align="center"><img src="images/c_ldmic_6.png" width="200"><br><b>LDMIC (0.037bpp, 26.65dB, 0.2850)</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="images/c_LD_6.png" width="200"><br><b>VAE-MFD(0.033bpp, 33.45dB, 0.1490)</b></td>
-    <td align="center"><img src="images/c_LP_6.png" width="200"><br><b>VAE-MFD + PO-PFI(0.033bpp, 22.83dB, 0.1262)</b></td>
-    <td align="center"><img src="images/c_alpha_6.png" width="200"><br><b>DPCON(0.033bpp, 31.98dB, 0.1036)</b></td>
+    <td align="center"><img src="images/c_LD_6.png" width="200"><br><b>VAE-MFD (0.033bpp, 33.45dB, 0.1490)</b></td>
+    <td align="center"><img src="images/c_LP_6.png" width="200"><br><b>VAE-MFD + PO-PFI (0.033bpp, 22.83dB, 0.1262)</b></td>
+    <td align="center"><img src="images/c_alpha_6.png" width="200"><br><b>DPCON (0.033bpp, 31.98dB, 0.1036)</b></td>
   </tr>
 </table>
 
