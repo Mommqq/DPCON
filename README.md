@@ -17,8 +17,20 @@
     <td align="center"><img src="images/c_alpha_6.png" width="200"><br><b>DPCON (0.033bpp, 31.98dB, 0.1036)</b></td>
   </tr>
 </table>
-### KITTI Stereo
 
+### KITTI Stereo
+<table align="center">
+  <tr>
+    <td align="center"><img src="images/k_135.png" width="200"><br><b>Ground Truth (bpp, PSNR, LPIPS)</b></td>
+    <td align="center"><img src="images/k_ndic_135.png" width="200"><br><b>NDIC (0.081bpp, 21.70dB, 0.3627)</b></td>
+    <td align="center"><img src="images/k_ldmic_135.png" width="200"><br><b>LDMIC (0.099bpp, 22.41dB, 0.3194)</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/k_LD_135.png" width="200"><br><b>VAE-MFD (0.078bpp, 22.95dB, 0.2528)</b></td>
+    <td align="center"><img src="images/k_LP_135.png" width="200"><br><b>VAE-MFD + PO-PFI (0.078bpp, 21.02dB, 0.2359)</b></td>
+    <td align="center"><img src="images/k_alpha_135.png" width="200"><br><b>DPCON (0.078bpp, 22.72dB, 0.2347)</b></td>
+  </tr>
+</table>
 
 
 
