@@ -4,7 +4,7 @@
 ## Experiment result on Cityscapes dataset
 ![city](https://github.com/user-attachments/assets/69f4879f-bcbc-4d8f-a489-1a008717560c)
 ## Qualitative Results
-# Cityscapes
+### Cityscapes
 <table align="center">
   <tr>
     <td align="center"><img src="images/c_6.png" width="200"><br><b>Ground Truth (bpp, PSNR, LPIPS)</b></td>
@@ -17,7 +17,7 @@
     <td align="center"><img src="images/c_alpha_6.png" width="200"><br><b>DPCON (0.033bpp, 31.98dB, 0.1036)</b></td>
   </tr>
 </table>
-#KITTI Stereo
+### KITTI Stereo
 
 
 
