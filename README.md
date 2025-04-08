@@ -7,7 +7,7 @@
 ### Cityscapes
 <table align="center">
   <tr>
-    <td align="center"><img src="images/c_6.png" width="200"><br><b>Ground Truth (bpp, PSNR, LPIPS)</b></td>
+    <td align="center"><img src="images/c_6.png" width="200"><br><b>Ground Truth (bpp, PSNR&uarr, LPIPS)</b></td>
     <td align="center"><img src="images/c_ndic_6.png" width="200"><br><b>NDIC (0.041bpp, 27.60dB,   0.2711)</b></td>
     <td align="center"><img src="images/c_ldmic_6.png" width="200"><br><b>LDMIC (0.037bpp, 26.65dB, 0.2850)</b></td>
   </tr>
