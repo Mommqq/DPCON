@@ -8,7 +8,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="images/c_6.png" width="200"><br><b>Ground Truth (bpp, PSNR&#8593, LPIPS&#8595)</b></td>
-    <td align="center"><img src="images/c_ndic_6.png" width="200"><br><b>NDIC (0.041bpp, 27.60dB&#8593,  0.2711&#8595)</b></td>
+    <td align="center"><img src="images/c_ndic_6.png" width="200"><br><b>NDIC (0.041bpp, 27.60dB&#8593,  <br>0.2711&#8595)</b></td>
     <td align="center"><img src="images/c_ldmic_6.png" width="200"><br><b>LDMIC (0.037bpp, 26.65dB&#8593, 0.2850&#8595)</b></td>
   </tr>
   <tr>
