@@ -22,7 +22,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="images/k_495.png" width="200"><br><b>Ground Truth (bpp, PSNR&#8593, LPIPS&#8595)</b></td>
-    <td align="center"><img src="images/k_ndic_495.png" width="200"><br><b>NDIC (0.084bpp, 21.46dB&#8593, 0.3984&#8595)</b></td>
+    <td align="center"><img src="images/k_ndic_495.png" width="200"><br><b>NDIC (0.084bpp, 21.46dB&#8593, <br>0.3984&#8595)</b></td>
     <td align="center"><img src="images/k_ldmic_495.png" width="200"><br><b>LDMIC (0.098bpp, 22.50dB&#8593, 0.3421&#8595)</b></td>
   </tr>
   <tr>
