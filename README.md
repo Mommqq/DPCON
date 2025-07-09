@@ -1,9 +1,5 @@
  # DPCON:Distortion-Perception Co-Optimization Network for Distributed Image Compression
 
-**Note**: We currently provide partial experimental results and visualizations on Cityscapes and KITTI Stereo datasets. The full code and pre-trained weights will be released upon paper acceptance.
-## Experiment results on Cityscapes dataset
-![city](![image](https://github.com/user-attachments/assets/f0636cea-8a03-49ac-8f8b-edd814cef07c)
-)
 ## Qualitative Results
 ### Cityscapes
 <table align="center">
