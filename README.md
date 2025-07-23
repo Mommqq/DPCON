@@ -12,8 +12,30 @@
 conda env create --file environment.yml
 conda activate dpcon
 ```
+### Dataset
+The datasets used for experiments are KITTI Stereo and Cityscape.
 
+For KITTI Stereo you can download the necessary image pairs from [KITTI 2012](http://www.cvlibs.net/download.php?file=data_stereo_flow_multiview.zip) and [KITTI 2015](http://www.cvlibs.net/download.php?file=data_scene_flow_multiview.zip). After obtaining `data_stereo_flow_multiview.zip` and `data_scene_flow_multiview.zip`, run the following commands:
+```bash
+unzip data_stereo_flow_multiview.zip # KITTI 2012
+mkdir data_stereo_flow_multiview
+mv training data_stereo_flow_multiview
+mv testing data_stereo_flow_multiview
 
+unzip data_scene_flow_multiview.zip # KITTI 2015
+mkdir data_scene_flow_multiview
+mv training data_scene_flow_multiview
+mv testing data_scene_flow_multiview
+```
+
+For Cityscape you can download the image pairs from [here](https://www.cityscapes-dataset.com/downloads/). After downloading `leftImg8bit_trainvaltest.zip` and `rightImg8bit_trainvaltest.zip`, run the following commands:
+```bash
+mkdir cityscape_dataset
+unzip leftImg8bit_trainvaltest.zip
+mv leftImg8bit cityscape_dataset
+unzip rightImg8bit_trainvaltest.zip
+mv rightImg8bit cityscape_dataset
+```
 
 ## Qualitative Results
 ### Cityscapes
