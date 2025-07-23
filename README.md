@@ -1,5 +1,14 @@
  # DPCON:Distortion-Perception Co-Optimization Network for Distributed Image Compression
 
+## Setup
+### Environment
+* `Ubuntu 22.04.5 LTS`
+* `Python 3.8.8`
+* `PyTorch 1.8.0+cu111`
+
+
+
+
 ## Qualitative Results
 ### Cityscapes
 <table align="center">
