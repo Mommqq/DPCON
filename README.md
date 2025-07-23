@@ -36,6 +36,19 @@ mv leftImg8bit cityscape_dataset
 unzip rightImg8bit_trainvaltest.zip
 mv rightImg8bit cityscape_dataset
 ```
+### Train DPCON
+```shell
+# train VAE-MFD In module/trainer_froze.py, freeze parameters and only train VAE-MFD function parameters
+python train.py
+
+# train PO-PFI In module/trainer_froze.py, freeze VAE-MFD parameters and only train PO-PFI parameters
+python train.py
+
+# train ARCO In module/trainer_froze.py, freeze both VAE-MFD and PO-PFI, and only train the adaptive weight map in ARCO
+python train.py 
+```
+
+
 
 ## Qualitative Results
 ### Cityscapes
