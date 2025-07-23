@@ -6,6 +6,12 @@
 * `Python 3.8.8`
 * `PyTorch 1.8.0+cu111`
 
+### Installation
+
+```shell
+conda env create --file environment.yml
+conda activate dpcon
+```
 
 
 
